@@ -33,7 +33,7 @@
   <div class="container">
     <div class="hero-text  text-center">
       <h2>Form Add</h2>
-      <p>Lorem ipsum dolor sit amet consectetur efelit
+      <p>Lorem ipsum dolor sit amet consjdectetur efelit
       </p>
     </div>
   </div>
